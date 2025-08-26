@@ -1,0 +1,118 @@
+[
+  {
+    "image_path": "OCR_dataset/test/images/PJT4884.jpg",
+    "text": "PJT4884"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PJU2207.jpg",
+    "text": "PJU2207"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PJU2853.jpg",
+    "text": "PJU2853"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PJV9741.jpg",
+    "text": "PJV9741"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PJX5721.jpg",
+    "text": "PJX5721"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PJY5472.jpg",
+    "text": "PJY5472"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PJY8509.jpg",
+    "text": "PJY8509"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PUT6858.jpg",
+    "text": "PUT6858"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PVX0095.jpg",
+    "text": "PVX0095"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PWC0633.jpg",
+    "text": "PWC0633"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PWF3266.jpg",
+    "text": "PWF3266"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PXP8172.jpg",
+    "text": "PXP8172"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/PYB6477.jpg",
+    "text": "PYB6477"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_089.jpg",
+    "text": "RK565AV"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_090.jpg",
+    "text": "RK550AO"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_091.jpg",
+    "text": "RK977AF"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_092.jpg",
+    "text": "RK373AK"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_093.jpg",
+    "text": "RK301AH"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_094.jpg",
+    "text": "RK069AV"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_095.jpg",
+    "text": "NO626AT"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_096.jpg",
+    "text": "RK735AS"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/test_097.jpg",
+    "text": "RK603AV"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/wts-lg-000191.jpg",
+    "text": "CDL4461"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/wts-lg-000192.jpg",
+    "text": "5NWV468"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/wts-lg-000193.jpg",
+    "text": "RZN384"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/wts-lg-000194.jpg",
+    "text": "7CID930"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/wts-lg-000195.jpg",
+    "text": "8D79882"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/wts-lg-000196.jpg",
+    "text": "DH7X317"
+  },
+  {
+    "image_path": "OCR_dataset/test/images/wts-lg-000199.jpg",
+    "text": "J868321"
+  }
+]
