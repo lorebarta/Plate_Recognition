@@ -119,8 +119,8 @@ class ImageEditor:
             self.canvas.image = tk_img
 
     def apply_to_folder(self):
-        image_dir = os.path.join("dataset", "test", "images")
-        label_dir = os.path.join("dataset", "test", "labels")
+        image_dir = os.path.join("OCR_dataset_full", "test", "images")
+        label_dir = os.path.join("OCR_dataset_full", "test", "labels")
         modified_dir = os.path.join(image_dir, "modified")
         annotated_dir = os.path.join(image_dir, "modified_annotated")
         cropped_dir = os.path.join(image_dir, "cropped_images")

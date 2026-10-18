@@ -5,11 +5,11 @@ import json
 # Crop images and create the labels for the TROCR model
 
 # Input paths
-image_folder = "OCR_dataset/test/detected_plates"
-label_folder = "OCR_dataset/test/labels"
+image_folder = "OCR_dataset_full/test/detected_plates"
+label_folder = "OCR_dataset_full/test/labels"
 
 # Output paths
-output_folder = "OCR_dataset/test/cropped_images"
+output_folder = "OCR_dataset_full/test/cropped_images"
 os.makedirs(output_folder, exist_ok=True)
 
 json_data = []

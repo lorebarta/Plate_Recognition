@@ -8,8 +8,8 @@ from difflib import SequenceMatcher
 reader = easyocr.Reader(['en'], gpu=False)
 
 # Paths
-image_dir = 'OCR_dataset/test/cropped_images'
-label_dir = 'OCR_dataset/test/labels'
+image_dir = 'OCR_dataset_full/test/cropped_images'
+label_dir = 'OCR_dataset_full/test/labels'
 
 results = []
 

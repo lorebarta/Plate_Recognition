@@ -1,0 +1,19 @@
+# PyTorch: per la sola CPU installalo prima con
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+
+opencv-python
+pandas
+pillow
+matplotlib
+
+# demo con modelli pre-addestrati
+fast-alpr[onnx]
+easyocr
+
+# modelli addestrati in proprio (YOLOv8 + TrOCR)
+ultralytics
+transformers
+datasets
+accelerate
